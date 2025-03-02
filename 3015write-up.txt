@@ -1,0 +1,11 @@
+* Which version Visual Studio and Operating System you used to test/write the code locally?
+
+This project is written on windows 11 and visual studio 2022 version.
+
+* How does it work? o How does your code fit together and how should a programmer navigate it
+
+Simply open the visual studio project and then press F5 will run the project. For the code, I studied the implementation of [LearnOpenGL](https://learnopengl.com/) and create a camera class with some helper functions to capture mouse and keyboard movements to move the camera. For inverse engineering the code, check the `run(Scene & scene)` function in `scenerunner.h`, and then press F12 to check the implementations of each function.
+
+* Link to the YouTube video
+
+Link: https://youtu.be/qPf5q2ANboA
